@@ -1,0 +1,8 @@
+{
+  "[prolog]": {},
+  "prolog.dialect": "swi",
+  "prolog.executablePath": "C:\\Program Files\\swipl\\bin\\swipl",
+  "code-runner.executorMap": {
+    "prolog": "swipl"
+  }
+}
