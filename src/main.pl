@@ -1,4 +1,5 @@
 :- use_module(library(clpfd)).
+:- use_module(templates).
 
 /*----------------------------------------------------------------
     Sudoku solver predicates
